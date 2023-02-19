@@ -8,7 +8,7 @@ import { AppComponent } from './app.component';
 import { HomeModule } from './modules/home/home.module';
 
 @NgModule({
-  declarations: [
+  declarations: [ 
     AppComponent
   ],
   imports: [
